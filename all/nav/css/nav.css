@@ -1,0 +1,84 @@
+	* {
+				padding: 0px;
+				margin: 0px;
+			}
+			
+			body {
+				text-align: left;
+				font: 14px "Microsoft YaHei", 宋体, san-serif;
+				font-size: 14px;
+			}
+			
+			a {
+				text-decoration: none;
+				color: #333333;
+			}
+			
+			ul,
+			li {
+				list-style: None;
+			}
+			
+			.clearfix:after {
+				clear: both;
+				content: '';
+				display: block;
+				width: 0;
+				height: 0;
+				visibility: hidden;
+			}
+			
+			
+			
+			.nav ul li {
+				float: left;
+				width: 80px;
+				line-height: 80px;
+				color: #000;
+				overflow: hidden;
+				position: relative;
+				height: 80px;
+				text-align: center;
+			}
+			
+			.nav .navBgBox {
+				height: 80px;
+				overflow: hidden;
+				padding-top: 3px;
+			}
+			
+			.nav {
+				height: 80px;
+				float: right;
+				position: relative;
+			}
+			
+			.nav .mask {
+				background: #FAFAFA;
+				border-top: solid 3px #0DA3E2;
+				position: absolute;
+				left: 0;
+				top: 0px;
+				height: 76px;
+				width: 80px;
+			}
+			
+			.nav .mask i {
+				position: absolute;
+				top: 0;
+				left: 50%;
+				border-color: #0DA3E2 transparent transparent transparent;
+				border-width: 6px;
+				margin-left: -4px;
+				border-style: solid;
+			}
+			
+			.nav ul li.hover a {
+				color: #0DA3E2;
+				font-weight: bold;
+			}
+			
+			.nav ul li:nth-child(1) a {
+				color: #0DA3E2;
+				font-weight: bold;
+			}

@@ -1,0 +1,417 @@
+*{
+	padding:0px;
+	margin:0px;
+}
+body {
+    text-align: left;
+    margin: 0px;
+    padding: 0px;
+    font: 14px "Microsoft YaHei", 宋体, san-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 14px;
+    line-height: normal;
+    font-family: "Microsoft YaHei", 宋体, san-serif;
+    background: rgb(255, 255, 255);
+}
+a {
+    text-decoration: none;
+    color: #333333;
+}
+
+.header-top-con {
+    height: 35px;
+}
+.header-top-con {
+    width: 1150px;
+    position: relative;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: left;
+}
+
+.header-top {
+    height: 35px;
+    border-bottom: 1px solid #ddd;
+    background: #f2f2f2;
+    min-width: 1150px;
+}
+
+
+img {
+    border: 0;
+    margin: 0px;
+}
+
+.header_bottom .CurrentlyImg img {
+    height: 65px;
+}
+.header_bottom .CurrentlyImg {
+    padding: 10px 0 0px 0;
+}
+.header_bottom {
+    width: 286px;
+}
+
+element.style {
+}
+.header_bottom {
+    width: 286px;
+}
+.header_bottom {
+    height: 80px;
+    float: left;
+    /* position: relative; */
+    width: 300px;
+}
+
+.w1150 {
+    width: 1150px;
+    position: relative;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.logonline {
+    border-bottom: solid 1px #E4E4E4;
+    /* overflow: hidden; */
+}
+
+.nav ul li:nth-child(1) a {
+    color: #0DA3E2;
+    font-weight: bold;
+}
+
+.nav ul li {
+    float: left;
+    width: 80px;
+    line-height: 80px;
+    color: #000;
+    overflow: hidden;
+    position: relative;
+    height: 80px;
+}
+.nav ul li {
+    text-align: center;
+}
+
+.nav .navBgBox {
+    height: 80px;
+    overflow: hidden;
+    padding-top: 3px;
+}
+
+.nav {
+    height: 80px;
+    float: right;
+    position: relative;
+}
+
+.headerBgImg {
+    position: absolute;
+    left: 172px;
+    top: -10px;
+    height: 60px;
+}
+
+.nav .mask {
+    background: #FAFAFA;
+    border-top: solid 3px #0DA3E2;
+    position: absolute;
+    left: 0;
+    top: 0px;
+    height: 76px;
+    width: 80px;
+}
+.nav .mask i {
+    position: absolute;
+    top: 0;
+    left: 50%;
+    border-color: #0DA3E2 transparent transparent transparent;
+    border-width: 6px;
+    margin-left: -4px;
+    border-style: solid;
+}
+
+.w1150:after {
+    content: "";
+    clear: both;
+    font-size: 0;
+    display: block;
+}
+
+.nav ul li.hover a {
+    color: #0DA3E2;
+    font-weight: bold;
+}
+.nav ul li a:hover {
+    text-decoration: none;
+    background: ;
+}
+.nav ul li a {
+    color: #000;
+}
+a:hover {
+    text-decoration: underline;
+    color: #FE8500;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*content*/
+.object_key #ReportIDname a {
+    color: #0CA3E1;
+}
+.object_key #ReportIDname {
+    display: block;
+    color: #EC0000;
+    font-size: 24px;
+    text-align: left;
+    line-height: 160%;
+}
+.object_key {
+    width: 530px;
+    margin-left: 15px;
+    padding-top: 40px;
+}
+#rightBg {
+    /* background: url(/res/Home/structure/chif.jpg) no-repeat right bottom; */
+    height: 320px;
+}
+.logonline {
+    border-bottom: solid 1px #E4E4E4;
+    /* overflow: hidden; */
+}
+#Content {
+    min-height: 500px;
+    background: url(http://cet.neea.edu.cn/res/Home/structure/object_con3_bg.png) no-repeat 10% bottom;
+}
+.object_key #ReportIDLogograph {
+    padding-top: 20px;
+    display: block;
+    color: #838383;
+    line-height: 200%;
+    text-align: left;
+    text-indent: 2em;
+    font-size: 14px;
+}
+a:hover {
+    text-decoration: underline;
+    color: #FE8500;
+}
+
+.object_list li {
+    margin-bottom: 10px;
+    padding-left: 11px;
+    text-align: left;
+    background: url(http://cet.neea.edu.cn/res/Home/structure/object_newslist_bg.gif) no-repeat left 8px;
+}
+.object_list ul {
+    /* height: 70px; */
+    overflow: hidden;
+}
+.object_list {
+    padding: 20px 0 0 20px;
+}
+.moreClass {
+    text-align: right;
+    width: 540px;
+}
+
+
+
+
+
+.fun-title {
+    height: 95px;
+    margin: 0 7px;
+    border-bottom: 1px solid #CCCCCC;
+    background: url(http://cet.neea.edu.cn/res/Home/structure/011.png) no-repeat 10px center;
+    font-size: 25px;
+    color: #111111;
+    padding-left: 95px;
+    text-align: left;
+    line-height: 95px;
+    /* background-size: 50px auto; */
+}
+.fun01 {
+     margin-left: 0px; 
+}
+
+.funbox {
+    margin-left: 14px;
+    float: left;
+    width: 275px;
+    height: 240px;
+    border: solid 1px #E4E4E4;
+    transition: background-image 1s;
+    background: #fff;
+}
+#Content3 {
+    width: 1150px;
+    margin: 50px auto 0;
+    padding-bottom: 50px;
+    overflow: hidden;
+}
+
+
+
+.fun-con #Description {
+    display: block;
+}
+
+.fun-con {
+    overflow: hidden;
+    width: 210px;
+    margin: 0 auto;
+    color: #646464;
+    line-height: 200%;
+    padding-top: 15px;
+    text-align: left;
+    height: 80px;
+    font-size: 14px;
+}
+
+.mores a {
+    color: #0DA3E2;
+}
+.funbox a:hover {
+    text-decoration: none;
+}
+.fun02 .fun-title {
+    background-image: url(http://cet.neea.edu.cn/res/Home/structure/022.png);
+}
+.fun03 .fun-title {
+    background-image: url(http://cet.neea.edu.cn/res/Home/structure/033.png);
+}
+.fun04 .fun-title {
+    background-image: url(http://cet.neea.edu.cn/res/Home/structure/044.png);
+}
+
+
+.mores {
+    text-align: right;
+    margin: 15px 30px 0px 0px;
+}
+.fun-con2 dd a {
+    width: 113px;
+    font-size: 14px;
+    color: #333;
+    background: none;
+}
+.fun-con2 dd {
+    height: 33px;
+    line-height: 33px;
+    margin-bottom: 8px;
+    float: left;
+    width: 113px;
+    text-align: center;
+    background: url(http://cet.neea.edu.cn/res/Home/structure/160230189.png) left top no-repeat;
+    margin-right: 12px;
+}
+
+.fun-con2 dd:hover {
+    background: url(http://cet.neea.edu.cn/res/Home/structure/160230193.png) left top no-repeat;
+}
+.fun01 {
+    margin-left: 0px;
+}
+
+.fun-con2 {
+    padding-left: 18px;
+}
+
+.fun-con2 {
+    position: relative;
+    margin: 0 auto;
+    color: #646464;
+    line-height: 200%;
+    padding: 25px 0 0 18px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.boxfun1234 {
+    background: url(http://cet.neea.edu.cn/res/Home/structure/hove1.png) no-repeat 0 0;
+}
+
+
+
+
+.footer {
+    height: 110px;
+    background: #f4f4f4;
+    color: #303D5D;
+    text-align: center;
+    font-size: 12px;
+}
+
+.footer {
+    height: 90px !important;
+}
+.copyright {
+    position: absolute;
+    top: 37px;
+    left: 0;
+    height: 60px;
+    /* background: url(/res/Home/structure/160330144.png) no-repeat left 8px; */
+    text-align: left;
+    line-height: 180%;
+}
+.footer-bottom {
+    width: 1150px;
+    margin: 0 auto;
+    position: absolute;
+    margin-left: -575px;
+    left: 50%;
+}
+
+#Footer {
+    border-top: 1px solid #ccc;
+}
+
+
+
+
+
+/*回到顶部*/
+.scroll a {
+    display: block;
+    width: 62px;
+    height: 61px;
+    background: url(http://cet.neea.edu.cn/res/Home/structure/16070340.jpg) no-repeat 0 top;
+}
+.scroll {
+    width: 62px;
+    height: 61px;
+    background: #64BFAE;
+    color: #fff;
+    line-height: 80px;
+    text-align: center;
+    position: fixed;
+    right: 30px;
+    bottom: 50px;
+    cursor: pointer;
+    font-size: 14px;
+}
